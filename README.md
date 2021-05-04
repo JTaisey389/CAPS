@@ -11,3 +11,4 @@
 
 ### UML
 ![UML-Diagram](/assets/Lab_11_CAP_UML.jpg) 
+![UML-Diagram-2.0](/assets/Lab_11_CAPRevise_UML.jpg)
