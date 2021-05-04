@@ -7,7 +7,7 @@
 ## Links and Resources:
 
 - [Github](https://github.com/JTaisey389/CAPS)
-- [Pull-Requests](TODO)
+- [Pull-Requests](https://github.com/JTaisey389/CAPS/pulls)
 
 ### UML
 ![UML-Diagram](/assets/Lab_11_CAP_UML.jpg) 
