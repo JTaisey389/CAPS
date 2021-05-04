@@ -14,9 +14,7 @@ const faker = require('faker') // remember to install once computer is back
 const events = require('../../events/event-pool');
 
 events.on('pickup', object)
-// 'pickup' will be my variable 
 
-// Every 5 seconds, simulate a new customer order
 setInterval(() => {
   //code to execute
   const newOrder = new fakeOrder();
@@ -43,7 +41,5 @@ class fakeOrder{
     this.address = faker.name.streetAddress();
   }
 }
-//payload means "data" or "object"
 
-
-module.exports = {fakeOrder, productDelivered, alertDelivery }; // these not right, need to Update
+module.exports = {fakeOrder, productDelivered, alertDelivery }; 
