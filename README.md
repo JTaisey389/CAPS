@@ -1,15 +1,16 @@
-# Lab 12 - 401 JavaScript
+# Lab 12.3.0 - 401 JavaScript
 
 ## CAPS: Code Academy Parcel Service
 
 ## Author: Jason Taisey
 
-## Links and Resources:
+## Links and Resources
 
 - [Github](https://github.com/JTaisey389/CAPS)
 - [Pull-Requests](https://github.com/JTaisey389/CAPS/pulls)
 
-### User Stories 
+### User Stories
+
 The following user/developer stories detail the major functionality for this phase of the project.
 
 - As a vendor, I want to alert the system when I have a package to be picked up
@@ -23,6 +24,8 @@ The following user/developer stories detail the major functionality for this pha
 - As a developer, I want to create an event driven system so that I can write code that happens in response to events, in real time
 
 ### UML
-![UML-Diagram](/assets/Lab_11_CAP_UML.jpg) 
+
+![UML-Diagram](/assets/Lab_11_CAP_UML.jpg)
 ![UML-Diagram-2.0](/assets/Lab_11_CAPRevise_UML.jpg)
-![UML-Diagram-2.1.1](assets/Lab_12_CAPRevise_UML.jpg)
+![UML-Diagram-2.1.1](/assets/Lab_12_CAPRevise_UML.jpg)
+![UML-Diagram-3.1.1](/assets/Lab_13pt3_UML.jpg)
