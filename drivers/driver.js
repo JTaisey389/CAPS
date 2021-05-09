@@ -1,6 +1,7 @@
 'use strict'
 
 // === REFACTORED FROM YESTERDAY ===
+require('dotenv').config();
 const io = require('socket.io-client'); // npm i socket.io-client TODO
 const SERVER_URL = process.env.SERVER_URL || 'http://localhost:3000';
 
